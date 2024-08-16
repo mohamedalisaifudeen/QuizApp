@@ -4,13 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter-powered quiz app offers an engaging and interactive platform for testing knowledge across various topics. The app features a clean and user-friendly interface, making it easy for users to challenge themselves with multiple-choice questions.
 
-A few resources to get you started if this is your first Flutter project:
+Features:
+Diverse Question Categories: Choose from a variety of topics to test your knowledge.
+Multiple-Choice Questions: Each question comes with four possible answers.
+Instant Feedback: Get immediate feedback after each question to learn as you go.
+Score Tracking: Keep track of your progress with a real-time score display.
+Responsive Design: Enjoy a seamless experience on both Android and iOS devices.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Technologies Used:
+Flutter: For creating a cross-platform application.
+Dart: As the main programming language.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+How to Run:
+Clone the repository: git clone https://github.com/yourusername/quiz-app.git
+Navigate to the project directory: cd quiz-app
+Run the app using your preferred IDE or terminal: flutter run
